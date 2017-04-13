@@ -13,7 +13,7 @@ ext {
     siteUrl = 'https://github.com/olympicsoftware/fab-speed-dial'
     gitUrl = 'https://github.com/olympicsoftware/fab-speed-dial.git'
 
-    libraryVersion = '1.0.8'
+    libraryVersion = '1.0.9'
 
     developerId = 'icbmike'
     developerName = 'Michael Little'
@@ -32,7 +32,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 25
         versionCode 9
-        versionName "1.0.8"
+        versionName "1.0.9"
     }
     buildTypes {
         release {

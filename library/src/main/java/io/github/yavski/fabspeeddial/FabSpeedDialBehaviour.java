@@ -49,7 +49,6 @@ import java.util.List;
  * <p>
  * <p>
  * A slightly modified version of the original
- * {@link android.support.design.widget.FloatingActionButton.Behavior}.
  * <p>
  * Created by yavorivanov on 03/01/2016.
  */
